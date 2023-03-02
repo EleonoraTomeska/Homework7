@@ -2,8 +2,6 @@
 //Exercise 3
 //Solution Start Here
 function reverseArrey(arr) {
-    for (let i = 0; i < 0; i++) {
-    }
     return arr.reverse();
 }
 //Ends Here
